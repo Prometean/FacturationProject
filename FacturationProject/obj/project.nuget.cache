@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IILUsz9XMnW8wHNCdwLE25ULut3lHoAdfudJC7MmNGryHAN9R6gQT0A6PtLC7lEMax5T1IiyShQGRtW6z9J9UA==",
+  "success": true,
+  "projectFilePath": "/workspaces/codespaces-blank/FacturationProject/FacturationProject.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

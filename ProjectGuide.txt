@@ -1,0 +1,4 @@
+run dotnet run to execute the program. You should see the invoice information displayed in the console.
+Now you have a simple facturation project in C#. This project contains two classes, Invoice and InvoiceItem, which represent an invoice and its items, respectively. The Program.cs file contains sample data and demonstrates how to use these classes to display the invoice information.
+
+Feel free to expand the project by adding more functionality, such as reading invoice data from a file, handling multiple invoices, or generating invoice reports. You can also consider creating a user interface (UI) using a framework like ASP.NET Core for a web application or Xamarin for a mobile application.

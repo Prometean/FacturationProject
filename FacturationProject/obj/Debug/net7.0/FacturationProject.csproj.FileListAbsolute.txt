@@ -1,0 +1,17 @@
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.AssemblyInfo.cs
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/FacturationProject/bin/Debug/net7.0/FacturationProject
+/workspaces/codespaces-blank/FacturationProject/bin/Debug/net7.0/FacturationProject.deps.json
+/workspaces/codespaces-blank/FacturationProject/bin/Debug/net7.0/FacturationProject.runtimeconfig.json
+/workspaces/codespaces-blank/FacturationProject/bin/Debug/net7.0/FacturationProject.dll
+/workspaces/codespaces-blank/FacturationProject/bin/Debug/net7.0/FacturationProject.pdb
+/workspaces/codespaces-blank/FacturationProject/bin/Debug/net7.0/Newtonsoft.Json.dll
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.csproj.CopyComplete
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.dll
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/refint/FacturationProject.dll
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.pdb
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/FacturationProject.genruntimeconfig.cache
+/workspaces/codespaces-blank/FacturationProject/obj/Debug/net7.0/ref/FacturationProject.dll
